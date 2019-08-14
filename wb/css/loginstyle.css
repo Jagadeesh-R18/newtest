@@ -1,0 +1,9 @@
+
+
+body
+{
+    background-image :url('website/images/pic1.jpg');
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+}
